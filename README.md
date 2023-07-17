@@ -21,7 +21,7 @@ Atualmente estou trabalhando como desenvolvedor front-end.
  
  <div align="center" justify-content="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=padilhx&show_icons=true&theme=radical"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padilhx&layout=pie)](https://github.com/padilhx/github-readme-stats"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padilhx&layout=pie"/>
  </div>
  
  <h2>📇 Contatos </h2>
