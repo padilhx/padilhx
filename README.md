@@ -27,7 +27,7 @@ Atualmente estou trabalhando como desenvolvedor front-end.
  
  <h2>📇 Contatos </h2>
  
- <a href="https://www.linkedin.com/in/guilherme-padilha-44731a182/" target="_blank">
+ <a href="[https://www.linkedin.com/in/guilherme-padilha-44731a182/](https://www.linkedin.com/in/guilherme-padilha-jobins-29b698262/)" target="_blank">
   <img align="left" alt="Guilherme Linkedin" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
 </a>
 <a href="https://twitter.com/pajilha">
