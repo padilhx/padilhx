@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINK" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermepadilhajobins/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -61,7 +61,7 @@ Buscando evoluir tecnicamente e contribuir de forma consistente em equipes de de
     <img src="https://img.shields.io/badge/Email-Enviar%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/guilherme-padilha-jobins-29b698262/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermepadilhajobins" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
