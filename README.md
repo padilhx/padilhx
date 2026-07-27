@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Padilha Jobins</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack Júnior • React • Node.js • TypeScript
+  Desenvolvedor Fullstack • React • Node.js • TypeScript
 </p>
 
 <p align="center">
