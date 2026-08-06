@@ -26,12 +26,12 @@ Buscando evoluir tecnicamente e contribuir de forma consistente em equipes de de
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,php,tailwind,html,css" />
 </p>
 
 ### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma" />
 </p>
 
 ### 🛠️ Ferramentas
