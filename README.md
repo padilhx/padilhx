@@ -14,11 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Fullstack com foco na construção de aplicações web modernas, escaláveis e bem estruturadas.
-
-Experiência prática com React, Next.js e Node.js, desenvolvimento de APIs REST, integração com serviços externos, banco de dados relacional e containerização com Docker.
-
-Buscando evoluir tecnicamente e contribuir de forma consistente em equipes de desenvolvimento.
+Fullstack dev | TypeScript, React, Next.js, Node.js, PHP/Laravel | Penso no sistema como um todo, do design até a experiência final do usuário. Infra em nuvem, CI/CD e código pensado pra crescer.
 
 ---
 
